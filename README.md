@@ -2,5 +2,6 @@
 
 - Estado del proyecto: En curso
 
-  Para ejecutar el sistema, debes poner
-  '''npm install react'''
+Para ejecutar el sistema, debes poner:
+
+  ``` npm install react ```
